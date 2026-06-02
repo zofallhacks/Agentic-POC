@@ -1,0 +1,137 @@
+# Håll Nollan — Arbetsmiljöguide för BAS-U
+## Byggarbetsmiljösamordnare Utförande
+Källa: Håll Nollan, version 2025-02-18
+
+---
+
+## Introduktion
+
+Denna guide ger praktiskt stöd för dig som arbetar som BAS-U. BAS-U samordnar
+arbetsmiljöfrågor under utförandeskedet och arbetar på uppdrag av byggherren.
+BAS-U tar vid där BAS-P lämnade och ansvarar för att AMP underhålls och följs.
+
+---
+
+## Del 1 — Uppstart av BAS-U-uppdrag
+
+### Överlämning från BAS-P
+BAS-U ska vid uppstart genomföra ett överlämningmöte med BAS-P:
+- Genomgång av AMP och risklogg
+- Genomgång av identifierade och kvarstående risker
+- Introduktion till projektet och platsen
+- Genomgång av kontakter och kommunikationsrutiner
+- Klargörande av eventuella öppna frågor
+
+### Förberedelser inför byggstart
+Innan byggarbete påbörjas ska BAS-U säkerställa att:
+- AMP är komplett och godkänd av byggherren
+- Förhandsanmälan till Arbetsmiljöverket är skickad (om tillämpligt)
+- Ordnings- och skyddsregler finns tillgängliga på arbetsplatsen
+- Rutiner för säkerhetsintroduktion är etablerade
+- Kontaktuppgifter till räddningstjänst och sjukvård finns på arbetsplatsen
+- Nödutgångar och samlingsplatser är definierade och skyltade
+
+### Startmöte med entreprenadrenter
+BAS-U ska hålla ett startmöte med alla entreprenadrenter innan arbetet börjar:
+- Genomgång av ordnings- och skyddsregler
+- Genomgång av AMP och identifierade risker
+- Presentera krav på säkerhetsintroduktion för alla arbetare
+- Klargöra kommunikationsrutiner och eskaleringsvägar
+- Genomgå rutiner för tillbud och olyckor
+
+---
+
+## Del 2 — Löpande koordinering under byggskede
+
+### Samordning av entreprenadrenter
+BAS-U ska aktivt samordna entreprenadrenter för att förhindra att de utsätter
+varandra för risker. Konkret innebär detta:
+- Veckovisa koordineringsmöten med alla entreprenadrenter
+- Granskning av tidplan för att identifiera riskfyllda överlapp
+- Koordinering av gemensamma skyddsanordningar
+- Hantering av konflikter mellan entreprenadrenter
+
+### Säkerhetsintroduktion
+Alla som börjar arbeta på byggarbetsplatsen ska få säkerhetsintroduktion:
+- Genomgång av platsens specifika risker
+- Presentation av ordnings- och skyddsregler
+- Information om nödrutiner och mötesplatser
+- Krav på personlig skyddsutrustning
+- Dokumentation av genomförd introduktion
+
+### Uppdatering av AMP
+BAS-U ska kontinuerligt uppdatera AMP:
+- Vid nya arbetsmoment eller entreprenadrenter
+- När nya risker identifieras
+- Vid förändringar i tidplanen
+- Minst en gång per kvartal för längre projekt
+
+---
+
+## Del 3 — Skyddsrond
+
+### Genomförande av skyddsrond
+Skyddsrond ska genomföras regelbundet, minst månadsvis. Processen:
+1. Planera skyddsronden med fokusområden
+2. Genomför rundvandring med BAS-U, byggherre representant och skyddsombud
+3. Dokumentera iakttagelser och brister
+4. Prioritera åtgärder (omedelbart/kort sikt/lång sikt)
+5. Tilldela ansvar för varje åtgärd
+6. Följ upp vid nästa skyddsrond
+
+### Checklista för skyddsrond — byggskedet
+**Ordning och reda:**
+- [ ] Gångar och utrymningsvägar fria från hinder
+- [ ] Material ordentligt upplagrat och säkrat
+- [ ] Avfall omhändertaget och sorterat
+- [ ] Verktyg och maskiner rätt förvarade
+
+**Arbete på höjd:**
+- [ ] Ställningar inspekterade och godkända
+- [ ] Skyddsräcken på plats och intakta
+- [ ] Fallskyddsutrustning används korrekt
+- [ ] Öppningar i golv och tak täckta eller inhägnade
+
+**Maskiner och lyft:**
+- [ ] Kranar och lyftanordningar inspekterade
+- [ ] Lyftplaner följs
+- [ ] Säkerhetsavstånd respekteras
+
+**Personlig skyddsutrustning:**
+- [ ] Hjälm används av alla på arbetsplatsen
+- [ ] Skyddsskor används
+- [ ] Korrekt PPE för arbetsmomentspecifika risker
+
+**El och brandfarliga arbeten:**
+- [ ] Tillfällig el är säker och inspekterad
+- [ ] Heta arbeten utförs med tillstånd
+- [ ] Brandvakt finns vid heta arbeten
+- [ ] Brandsläckare tillgängliga och kontrollerade
+
+---
+
+## Del 4 — Hantering av incidenter och tillbud
+
+### Rutiner vid tillbud
+Vid tillbud (olycka utan skada) ska BAS-U:
+1. Säkra platsen om risk för ytterligare skada finns
+2. Dokumentera tillbudet med datum, plats och händelseförlopp
+3. Genomföra grundorsaksanalys
+4. Implementera korrigerande åtgärder
+5. Informera alla entreprenadrenter om tillbudet och lärdomar
+
+### Rutiner vid olycka med personskada
+Vid olycka med personskada:
+1. Tillkalla ambulans (112) om allvarlig skada
+2. Ge första hjälpen
+3. Säkra platsen för utredning
+4. Informera byggherre och entrepranadrens ledning
+5. Anmäl till Arbetsmiljöverket om allvarlig skada (inom 24 timmar)
+6. Dokumentera fullständigt och genomför utredning
+
+### Anmälningsskyldighet till Arbetsmiljöverket
+Följande måste anmälas till Arbetsmiljöverket:
+- Dödsfall
+- Allvarlig kroppsskada (brott, svår skärsår, brännskador, etc.)
+- Olyckor som drabbat flera arbetstagare
+Anmälan ska göras utan dröjsmål, senast 24 timmar efter olyckan.

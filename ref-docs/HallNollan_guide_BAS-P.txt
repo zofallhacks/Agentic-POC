@@ -1,0 +1,139 @@
+# Håll Nollan — Arbetsmiljöguide för BAS-P
+## Byggarbetsmiljösamordnare Planering och Projektering
+Källa: Håll Nollan, version 2026-03-24
+
+---
+
+## Introduktion
+
+Denna guide ger praktiskt stöd för dig som arbetar som BAS-P eller handläggare BAS-P.
+Guiden baseras på AFS 2023:3 och syftar till att ge konkreta verktyg för att genomföra
+uppdraget på ett systematiskt och effektivt sätt.
+
+BAS-P är samordnare för arbetsmiljöfrågor under planering och projektering och arbetar
+på uppdrag av byggherren (t.ex. Akademiska Hus).
+
+---
+
+## Del 1 — Uppstart av BAS-P-uppdrag
+
+### Steg 1: Förstå projektet
+Vid start av uppdraget ska BAS-P sätta sig in i:
+- Projektets syfte, storlek och komplexitet (Grön/Gul/Röd klassificering)
+- Typ av byggnad (kontor, laboratorium, sjukhus, bostäder, etc.)
+- Tidplan och milstolpar
+- Vilka projektörer och entreprenadrenter som är eller ska engageras
+- Eventuella kända risker eller särskilda förutsättningar
+
+### Steg 2: Startmöte med byggherren
+BAS-P ska hålla ett startmöte med byggherren. Mötet ska inkludera:
+- Genomgång av BAS-P:s uppdrag och befogenheter
+- Diskussion om projektets risknivå och komplexitet
+- Fastställande av dialogplan och kommunikationsrutiner
+- Genomgång av tidplan och kritiska beslutspunkter
+- Rutiner för att eskalera problem till byggherren
+
+### Steg 3: Upprätta dialogplan
+BAS-P ska tidigt upprätta en dialogplan som beskriver:
+- Hur och när BAS-P kommunicerar med projektörer
+- Mötesstruktur och frekvens
+- Hur riskinformation dokumenteras och delas
+- Hur beslut om riskhantering fattas och dokumenteras
+
+---
+
+## Del 2 — Riskidentifiering under projektering
+
+### Metod för riskidentifiering
+BAS-P ska systematiskt identifiera risker i projektet:
+
+**Fas 1 — Tidigt skede:**
+- Identifiera risker kopplade till platsen (mark, grundförhållanden, omgivning)
+- Identifiera risker kopplade till byggnadens typ och användning
+- Bedöma risker från befintlig verksamhet i eller nära byggnaden
+- Identifiera risker med farliga ämnen (asbest, PCB, förorenad mark)
+
+**Fas 2 — Projektering:**
+- Koordinera med arkitekt och konstruktörer för att identifiera konstruktionsrisker
+- Identifiera risker med installationer (el, VVS, ventilation)
+- Bedöma risker vid framtida underhåll och drift
+- Dokumentera alla identifierade risker i riskloggen
+
+### Risklogg
+BAS-P ska upprätta och underhålla en risklogg som innehåller:
+- Risknummer och beskrivning
+- Sannolikhet och konsekvens (hög/medel/låg)
+- Planerade åtgärder
+- Ansvarig person
+- Status (identifierad/planerad åtgärd/genomförd/avslutad)
+
+---
+
+## Del 3 — Upprättande av Arbetsmiljöplan (AMP)
+
+### Val av AMP-mall
+Välj AMP-mall baserat på projektets klassificering:
+- **Röd/Byggprocess:** Använd fullständig AMP-mall (Akademiska Hus fullständig AMP)
+- **Gul/Förenklad byggprocess:** Använd förenklad AMP-mall
+- **Grön/Åtgärd:** Använd AMP-mall för avrop
+
+### Obligatoriskt innehåll i AMP
+AMP ska innehålla minst:
+1. Projektbeskrivning och kontaktuppgifter
+2. Riskbedömning med identifierade risker
+3. Åtgärdsplan för varje identifierad risk
+4. Ordnings- och skyddsregler
+5. Krav på personlig skyddsutrustning
+6. Rutiner för tillbud och olyckor
+7. Tidplan med fasindelning
+
+### Typiska risker för olika byggnadstyper
+
+**Laboratorier och forskningsbyggnader:**
+- Kemikaliehantering — kräver ventilationsplan och spillrutiner
+- Strålningsskydd om radioaktiva ämnen förekommer
+- Biosäkerhet om biologiska material hanteras
+- Speciell ventilation — kräver tidig koordination med VVS-projektör
+
+**Kontorsbyggnader:**
+- Arbete på höjd vid fasadinstallation
+- Glasinstallation — tunga lyft och fallrisk
+- Tekniska installationer (IT, el) i täta utrymmen
+
+**Sjukhus och vårdinrättningar:**
+- Pågående verksamhet under hela byggtiden
+- Infektionskontroll — tät avgränsning av byggzoner
+- Medicinska gaser — brandfarliga miljöer
+- Känsliga patienter nära byggarbeten
+
+**Bostadsbyggnader:**
+- Grannfastigheter — vibrationer och buller
+- Prefabricerade element — tunga lyft
+- Balkong- och terrassarbeten — arbete på höjd
+
+---
+
+## Del 4 — Uppföljning under projektering
+
+### Regelbunden uppföljning med projektörer
+BAS-P ska regelbundet följa upp projektörernas arbete:
+- Månadsvis genomgång av risklogg
+- Kontroll att nya risker dokumenteras
+- Säkerställa att projektörers lösningar inte skapar nya risker
+- Dokumentera uppföljningen
+
+### Inför överlämning till BAS-U
+Senast 4 veckor innan byggskede påbörjas ska BAS-P:
+- Uppdatera AMP med all känd information
+- Sammanställa risklogg med status på alla risker
+- Förbereda överlämningsdokumentation
+- Boka överlämningmöte med BAS-U och byggherre
+
+### Checklista inför överlämning
+- [ ] AMP är komplett och uppdaterad
+- [ ] Risklogg är komplett med status och åtgärder
+- [ ] Alla projektörers riskdokumentation är insamlad
+- [ ] Tidplan är realistisk och säkerhetsmässigt genomgången
+- [ ] Ordnings- och skyddsregler är färdigställda
+- [ ] BAS-U är utsedd och har fått ta del av AMP
+- [ ] Överlämningmöte genomfört och dokumenterat

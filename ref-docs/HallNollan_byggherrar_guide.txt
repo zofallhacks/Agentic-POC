@@ -1,0 +1,111 @@
+# Håll Nollan — Byggherrarnas guide
+## Krav, roller och ansvar för byggherrar i byggprojekt
+Källa: Håll Nollan, version 2026-04-01
+
+---
+
+## Del 1 — Byggherrens roll
+
+### Vad innebär byggherrerollen?
+Byggherren (t.ex. Akademiska Hus) är den som låter utföra ett byggnads- eller
+anläggningsarbete. Som byggherre har du:
+- Det övergripande ansvaret för att arbetsmiljö beaktas i hela projektet
+- Ansvar för att utse kompetent BAS-P och BAS-U
+- Ansvar för att ge BAS-P och BAS-U tillräckliga resurser och befogenheter
+- Ansvar för att följa upp att BAS-P och BAS-U fullgör sina uppgifter
+
+### Vanliga misstag som byggherre
+- Utser BAS-P för sent — BAS-P bör utses i tidigt skede, inte vid byggstart
+- Ger BAS-P och BAS-U för lite tid för uppdraget
+- Följer inte upp BAS-P och BAS-U regelbundet
+- Missar att skicka förhandsanmälan till Arbetsmiljöverket
+
+---
+
+## Del 2 — Klassificering av projekt
+
+### Akademiska Hus klassificeringsmodell
+Projekt klassificeras i tre nivåer baserat på storlek, komplexitet och risknivå:
+
+**Grön — Åtgärd (liten/enkel)**
+- Liten finansiell storlek (under ca 10 MSEK)
+- Låg komplexitet och låg risknivå
+- Inga eller få parallella entreprenadrenter
+- Kort byggtid (under 3 månader)
+- Kräver förenklad AMP (mall för avrop)
+
+**Gul — Förenklad byggprocess (medel)**
+- Medelstor finansiell storlek (10–100 MSEK)
+- Medel komplexitet eller medel risknivå
+- Några parallella entreprenadrenter
+- Byggtid 3–12 månader
+- Kräver förenklad AMP och BAS-P/BAS-U
+
+**Röd — Byggprocess (stor/komplex)**
+- Stor finansiell storlek (över 100 MSEK)
+- Hög komplexitet eller hög risknivå
+- Många parallella entreprenadrenter
+- Lång byggtid (över 12 månader)
+- Kräver fullständig AMP och erfarna BAS-P/BAS-U
+
+---
+
+## Del 3 — Aktiviteter per projektfas
+
+### Tidigt skede
+Aktiviteter som ska genomföras i tidigt skede:
+1. **Klassificera projektet** (Grön/Gul/Röd) med Identifiering-dokumentet
+2. **Utse BAS-P** — välj med rätt kompetens för projektets klassificering
+3. **Håll startmöte med BAS-P** — gå igenom uppdrag, befogenheter, tidplan
+4. **Upprätta dialogplan** — hur kommunikation sker under projektet
+5. **Påbörja riskidentifiering** — identifiera platsspecifika och projekttyprisker
+6. **Planera realistisk tidplan** — BAS-P ska granska och godkänna tidplanen
+
+### Projektering
+Aktiviteter under projektering:
+1. **BAS-P koordinerar projektörer** — löpande under hela projektering
+2. **Upprättande av AMP påbörjas** — BAS-P ansvarar med input från projektörer
+3. **Risklogg underhålls** — alla identifierade risker dokumenteras
+4. **Startmöte för projektering** — genomgång av arbetsmiljöfrågor med alla projektörer
+5. **Följa upp projektörernas riskarbete** — månadsvis uppföljning
+6. **Förbereda överlämning till BAS-U** — slutföra AMP, sammanställa risklogg
+
+### Byggskede
+Aktiviteter under byggskede:
+1. **Överlämning BAS-P till BAS-U** — formellt möte, dokumenterat
+2. **BAS-U håller uppstartmöte med entreprenadrenter** — genomgång av AMP och regler
+3. **Säkerhetsintroduktion för alla nya arbetstagare** — obligatorisk
+4. **Veckovisa koordineringsmöten** — BAS-U med alla entreprenadrenter
+5. **Månatlig skyddsrond** — dokumenterad, följs upp
+6. **Uppdatering av AMP** — vid förändringar och nya entreprenadrenter
+7. **Byggherreuppföljning av BAS-U** — minst kvartalsvis
+
+### Slutskede
+Aktiviteter i slutskedet:
+1. **Slutskyddsrond** — genomgång av hela arbetsplatsen
+2. **Stänga öppna risker** — alla identifierade risker ska vara hanterade
+3. **Komplettera AMP** — final version med all information
+4. **Upprätta arbetsmiljödokumentation** — för framtida drift och underhåll
+5. **Slutbesiktning** — formell avslutning
+6. **Överlämning till förvaltning** — AMP och arbetsmiljödokumentation överlämnas
+
+---
+
+## Del 4 — Uppföljning av BAS-P och BAS-U
+
+### Byggherre uppföljning av BAS-P
+Byggherren ska följa upp BAS-P regelbundet med fokus på:
+- Genomförs riskidentifiering systematiskt?
+- Koordineras projektörerna kring arbetsmiljöfrågor?
+- Upprättas AMP med rätt innehåll och i rätt tid?
+- Dokumenteras dialogplan och uppföljningar?
+- Är tidplanen realistisk ur säkerhetssynpunkt?
+
+### Byggherre uppföljning av BAS-U
+Byggherren ska följa upp BAS-U med fokus på:
+- Hålls skyddsronder regelbundet och dokumenteras?
+- Uppdateras AMP löpande?
+- Ges säkerhetsintroduktion till alla nya arbetstagare?
+- Samordnas entreprenadrenter effektivt?
+- Hanteras incidenter och tillbud korrekt?
+- Finns korrigerande åtgärder för identifierade brister?

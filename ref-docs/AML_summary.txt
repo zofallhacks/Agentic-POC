@@ -1,0 +1,69 @@
+# Arbetsmiljölagen (AML) — SFS 1977:1160
+## Sammanfattning av relevanta bestämmelser för byggprojekt
+
+---
+
+## Kapitel 1 — Lagens ändamål och tillämpningsområde
+
+Arbetsmiljölagen syftar till att förebygga ohälsa och olycksfall i arbetet samt att
+åstadkomma en god arbetsmiljö. Lagen gäller varje verksamhet där arbetstagare utför
+arbete för arbetsgivares räkning.
+
+---
+
+## Kapitel 2 — Arbetsmiljöns beskaffenhet
+
+### Grundläggande krav
+- Arbetsförhållandena ska anpassas till människors olika förutsättningar i fysiskt och psykiskt avseende
+- Arbetstagaren ska ges möjlighet att medverka i utformningen av sin egen arbetssituation
+- Teknik, arbetsorganisation och arbetsinnehåll ska utformas så att arbetstagaren inte utsätts för fysiska eller psykiska belastningar som kan medföra ohälsa eller olycksfall
+- Lokaler och personalutrymmen ska ge möjlighet till god hygienisk standard
+
+### Byggnader och anläggningar
+Vid byggnads- och anläggningsarbete gäller att:
+- Arbetsplatsen ska planeras och utformas med hänsyn till säkerhet och hälsa
+- Erforderliga skyddsanordningar och skyddsutrustning ska finnas
+- Ordning och reda ska upprätthållas på arbetsplatsen
+
+---
+
+## Kapitel 3 — Allmänna skyldigheter
+
+### Arbetsgivarens ansvar
+Arbetsgivaren ska systematiskt planera, leda och kontrollera verksamheten på ett sätt
+som leder till att arbetsmiljön uppfyller föreskrivna krav. Arbetsgivaren ska:
+- Utreda arbetsskador och risker i verksamheten
+- Genomföra de åtgärder som behövs för att förebygga att arbetstagaren utsätts för ohälsa eller olycksfall
+- Se till att det i verksamheten finns ett i förhållande till verksamhetens art och omfattning lämpligt systematiskt arbetsmiljöarbete
+
+### Byggherrens ansvar
+Den som låter utföra ett byggnads- eller anläggningsarbete ska under planering och
+projektering se till att AFS 2023:3 följs och att den som utses till BAS-P och BAS-U
+har tillräckliga resurser och befogenheter.
+
+---
+
+## Kapitel 6 — Skyddsombud och skyddskommittéer
+
+### Skyddsombud
+På arbetsplats där minst fem arbetstagare regelbundet sysselsätts ska det finnas ett
+eller flera skyddsombud. Skyddsombudet representerar arbetstagarna i arbetsmiljöfrågor och ska:
+- Delta i planeringen av nya eller ändrade lokaler och arbetsprocesser
+- Vaka över skyddet mot ohälsa och olycksfall
+- Verka för tillfredsställande arbetsmiljöförhållanden
+
+På byggarbetsplats ska skyddsombud utses när arbete pågår under längre tid.
+
+---
+
+## Kapitel 7 — Tillsyn
+
+### Arbetsmiljöverkets tillsyn
+Arbetsmiljöverket har tillsyn över att lagen och föreskrifter följs. Verket kan:
+- Utfärda förelägganden och förbud
+- Förena förelägganden med vite
+- Kräva att allvarliga brister åtgärdas omedelbart
+
+### Anmälningsskyldighet
+Allvarliga olyckor och tillbud ska anmälas till Arbetsmiljöverket.
+En olycka är allvarlig om den medfört dödsfall eller svår kroppsskada.

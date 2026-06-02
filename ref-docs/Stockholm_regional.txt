@@ -1,0 +1,139 @@
+# Stockholm — Regionspecifika krav och förutsättningar för byggprojekt
+## Arbetsmiljö och säkerhet i Stockholms byggmiljö
+
+---
+
+## 1. Stadsplanering och tillstånd
+
+### Byggtillstånd och anmälningsplikt
+I Stockholm hanteras bygglov av Stadsbyggnadskontoret. För byggprojekt gäller:
+- Bygglov krävs för nybyggnad, tillbyggnad och väsentlig ändring
+- Rivningslov krävs för rivning av byggnad eller del av byggnad
+- Marklov krävs för schaktning, fyllning och trädfällning inom detaljplan
+- Ansökningstid: räkna med 10 veckor för enkla ärenden, längre för komplexa
+
+### Kranar och tunga transporter
+Stockholms stad ställer specifika krav på kranar och tunga transporter:
+- Tillstånd från Trafikkontoret krävs för kranar som sträcker sig över allmän plats
+- Tillståndet är tidsbegränsat och måste förnyas — vanligtvis månadsvis
+- Ansökan ska lämnas in senast 3 veckor före önskat datum
+- Nattarbete med kran kräver separat tillstånd (22:00–07:00)
+- Vid kranar nära tunnelbana krävs samordning med SL (Stockholm Lokaltrafik)
+- Tunga transporter (>60 ton) kräver tillstånd från Trafikverket och planering av rutt
+
+### Arbete i närheten av kulturmiljöer
+Stockholm har många skyddade kulturmiljöer och byggnader. Byggherren ska:
+- Kontrollera om platsen berörs av kulturmiljöskydd (via Stadsmuseet)
+- Ansöka om tillstånd hos Länsstyrelsen om kulturmiljö berörs
+- Anlita antikvarie vid arbeten i skyddade miljöer
+- Dokumentera befintligt skick fotografiskt innan arbetet påbörjas
+
+---
+
+## 2. Buller och vibrationsbegränsningar
+
+### Buller
+Stockholms stad tillämpar riktvärden för buller från byggverksamhet:
+- **Dagtid (07:00–18:00):** Max 70 dB(A) vid närmaste bostad
+- **Kvällstid (18:00–22:00):** Max 60 dB(A) vid närmaste bostad
+- **Nattetid (22:00–07:00):** Inget störande buller tillåtet
+- Helger och röda dagar: samma regler som kvällstid
+- Undantag kan beviljas för kortvariga arbeten med särskilt tillstånd
+
+**Praktiska åtgärder för bullerhantering:**
+- Planera bullerintensiva arbeten (borrning, pålning) tidigt på dagen
+- Använd bullerdämpande fasader kring arbetsområdet vid behov
+- Informera närboende i god tid om planerade bullerstörningar
+- Mät bullernivåer vid klagomål och dokumentera åtgärder
+
+### Vibrationer
+Vid pålning, sprängning och tung trafik nära befintliga byggnader:
+- Vibrationsmätning krävs vid byggnader inom 50 meter
+- Riktvärden: max 5 mm/s (känsliga byggnader), max 10 mm/s (standard)
+- Tillstånd från Länsstyrelsen krävs vid sprängning
+- Sprängning i city kräver alltid utredning och specialistgodkännande
+
+---
+
+## 3. Grundförhållanden och geoteknik
+
+### Stockholms typiska mark- och grundförhållanden
+Stockholm har varierande grundförhållanden. Projektledare ska vara medvetna om:
+
+**Berggrund:**
+- Stora delar av Stockholm har berg nära ytan (1–3 meter)
+- Tunnlar och tunnelbana påverkar grundläggning i innerstaden
+- Kontakta SL och Trafikverket för kartor över befintliga tunnlar
+
+**Lera och lös mark:**
+- Södermalm, Kungsholmen och delar av Östermalm har lerlager
+- Risk för sättningar vid grundläggning — geoteknisk utredning är kritisk
+- Pålning vanligtvis nödvändig vid lera djupare än 3 meter
+
+**Grundvatten:**
+- Grundvattennivån i innerstaden är känslig för sänkning
+- Tillstånd krävs för att sänka grundvattnet (Mark- och miljödomstolen)
+- Grundvattenkontroll under projekttid är obligatorisk vid grundvattenpåverkan
+
+### Förorenad mark
+Stockholms industrihistoria innebär risk för markförorening:
+- Utredning av markmiljö (fas 1 och eventuellt fas 2) rekommenderas
+- Fastigheter med känd förorening är registrerade hos Länsstyrelsen
+- Anmälan till Miljöförvaltningen krävs vid sanering
+- Massor med förorenat material kräver tillstånd för transport och deponering
+
+---
+
+## 4. Trafik och logistik i stadsmiljö
+
+### Trafiklösningar för byggarbetsplats
+I Stockholms tätbebyggda miljö är logistik en kritisk säkerhetsfråga:
+- Byggtrafiklösning ska tas fram och godkännas av Trafikkontoret
+- Leveransscheman ska spridas ut för att undvika rusningstrafikens tider (07:00–09:00, 16:00–18:00)
+- Gångbana och cykelbana får inte blockeras utan tillstånd
+- Alternativa gångvägar ska skyltas tydligt vid tillfällig stängning
+
+### Parkering och uppställning
+- Byggupplag på gatumark kräver tillstånd från Trafikkontoret
+- Kostnad ca 500–1500 kr/dygn beroende på yta och plats
+- Parkeringstillstånd för byggfordon ansöks separat
+- Mobilkranar kräver alltid gaturekognoscering och tillstånd
+
+---
+
+## 5. Kringliggande verksamheter och ansvar
+
+### Kommunikation med grannar
+I tät stadsmiljö är grannkommunikation viktig:
+- Informationsbrev till boende och verksamheter i närheten rekommenderas
+- Ange: projektets varaktighet, arbetstider, förväntat buller/vibration, kontaktperson
+- Skicka ut minst 2 veckor innan byggstart
+- Tillhandahåll kontaktuppgifter för klagomål och frågor
+
+### Skydd av befintliga byggnader
+Vid arbete nära befintliga byggnader:
+- Dokumentera befintliga skador fotografiskt (grannbesiktning) innan start
+- Sätt upp mätpunkter för sättningsövervakning
+- Informera fastighetsägare om vilka mätningar som görs
+
+---
+
+## 6. Stockholmsspecifika säkerhetsrisker
+
+### Risk: Underjordisk infrastruktur
+Stockholm har ett komplext nät av tunnlar, ledningar och kablar:
+- Alltid beställ ledningsanvisning (via Ledningskollen.se) innan grävning
+- SL:s tunnelbanespår kräver utredning och samordning vid arbeten inom 30 meter
+- Fjärrvärmenätet är omfattande — heta ledningar kan finnas grunt
+
+### Risk: Höga byggnader och vindlaster
+För höghusprojekt i Stockholm:
+- Vindlaster ska beräknas av konstruktör (varierar med höjd och placering)
+- Fallrisk för föremål ökar avsevärt med höjden
+- Skyddsnät och vindskydd krävs på byggnader över 10 våningar
+- Kranarbete begränsas vid vindstyrka >10 m/s (15 m/s för lättare kranar)
+
+### Risk: Tunnelbana och pendeltåg
+Vibrationer från tunnelbana och pendeltåg kan påverka byggarbeten:
+- Kontinuerlig vibrationsmätning rekommenderas för arbeten nära spårtrafik
+- Koordinera sprängning och pålning med SL för att undvika konflikt med tågtrafik

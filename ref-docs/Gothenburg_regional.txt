@@ -1,0 +1,116 @@
+# Göteborg — Regionspecifika krav och förutsättningar för byggprojekt
+## Arbetsmiljö och säkerhet i Göteborgs byggmiljö
+
+---
+
+## 1. Stadsplanering och tillstånd
+
+### Byggtillstånd i Göteborg
+Bygglov hanteras av Stadsbyggnadskontoret i Göteborg. Notera:
+- Handläggningstid: 10 veckor för enkla ärenden, 20+ veckor för komplexa projekt
+- Göteborg prioriterar projekt med hög hållbarhetsprofil
+- Detaljplaner kan kräva särskilda villkor för hantverksbostäder nära industrimark
+- Riksintresset för hamnverksamhet kan påverka projekt i Älvstranden
+
+### Tillstånd för kranar och tunga transporter
+- Tillstånd söks hos Trafikkontoret Göteborg
+- Kranöversvängning över allmän plats kräver tillstånd — ansökan minst 3 veckor i förväg
+- Hamngatan, Avenyn och andra huvudleder kräver särskild hänsyn vid transporter
+- Spårvagnslinjer är känsliga — kontakta Göteborgs Spårvägar för arbeten inom 5 meter
+
+---
+
+## 2. Väder och klimat — Göteborgspecifika utmaningar
+
+### Västkustens väderförhållanden
+Göteborg har ett av Sveriges blötaste och blåsigaste klimat:
+- Genomsnittlig årsnedbördsmängd: 750 mm (40% mer än Stockholm)
+- Höststormar och kraftiga regn är vanliga september–december
+- Vindstyrka: Göteborg påverkas regelbundet av sydvästliga stormar
+
+**Praktiska konsekvenser för byggarbetsplatsen:**
+- Väderskydd för material och arbetsplatser är avgörande — planera för täta regn
+- Kranarbete begränsas vid vindstyrka >12 m/s (Göteborg har fler vindstarka dagar)
+- Halkrisken ökar kraftigt under höst och vinterperioder
+- Bygg in extra väderbuffertar i tidplanen — minst 10% extra för väderrelaterade stopp
+
+### Vinterklimat
+Göteborg har mildare vintrar än Stockholm men med mer snö vid kusten:
+- Is och snö på ställningar och arbetsplatser är en allvarlig säkerhetsrisk
+- Regelbunden inspektion av ställningar vid temperaturväxlingar kring noll
+- Halkskydd på alla gångvägar på arbetsplatsen
+- Vinterbelysning — kortare dagar kräver god arbetsplatsbelysning
+
+---
+
+## 3. Grundförhållanden och geoteknik
+
+### Göteborgslera — en av Sveriges svåraste grundförhållanden
+Göteborg är känt för sin tjocka och känsliga lerlera:
+- Leran är upp till 100 meter djup i vissa delar av staden
+- Leran är känslig för vibrationer och pålning — risk för skred
+- **Geoteknisk utredning är obligatorisk för alla projekt i Göteborg**
+- Anlita alltid geotekniker med erfarenhet av Göteborgsleran
+
+**Skredrisker:**
+- Göteborgs stad har kartlagt skredrisker längs Göta älv och Mölndalsån
+- Kontrollera alltid skredriskkarta (via Länsstyrelsen och SGI) för projektplatsen
+- Stabilitetsutredning krävs för projekt inom känsliga zoner
+- Vid schaktning nära befintliga byggnader — kontaktinjektering kan behövas
+
+### Grundvatten och dagvatten
+- Göteborgs höga grundvattennivå kräver aktiv pumpning vid källarbyggnation
+- Tillstånd från Mark- och miljödomstolen för grundvattensänkning
+- Dagvattenhantering — Göteborg har krav på lokalt omhändertagande (LOD) av dagvatten
+- Klimatanpassning — dimensionera dagvattensystem för 100-årsregn
+
+---
+
+## 4. Miljöskyddskrav
+
+### Förorenad mark i Göteborg
+Göteborgs industrihistoria (varv, gjuterier, kemisk industri) har lämnat föroreningar:
+- Hela Hisingen och delar av Majorna är historiska industriområden
+- Markundersökning (fas 1 och 2) är särskilt viktig i dessa områden
+- Göteborgs stad har en databas över kända förorenade fastigheter (via Miljöförvaltningen)
+- Ansökan om marksanering görs till Miljöförvaltningen
+
+### Götaälvregionens miljökrav
+Projekt nära Göta älv eller Mölndalsån:
+- Samråd med länsstyrelsen krävs för arbeten som kan påverka vattenverksamhet
+- Muddringstillstånd krävs för arbeten i vattenområden
+- Strandskydd gäller 100 meter från strandlinjen
+
+---
+
+## 5. Trafik och logistik
+
+### Göteborgstrafik — specifika utmaningar
+- Spårvagnsnätet täcker stora delar av Göteborg — extremt viktigt att beakta
+- Spårvägsarbete kräver samordning med Göteborgs Spårvägar AB
+- Styr leveranstrafik bort från rusningstid (07:30–09:00, 16:00–18:00)
+- E45 och Götatunneln är kritiska infarter — undvik störningar vid dessa
+
+### Hamnrelaterade projekt
+För projekt i närheten av Göteborgs hamn:
+- Samordning med Göteborgs Hamn AB krävs
+- Höga krav på säkerhet vid arbeten nära hamninfrastruktur
+- Hamnens ISPS-regler kan påverka tillgång och säkerhetskrav
+
+---
+
+## 6. Hållbarhetskrav i Göteborg
+
+### Stadens krav på hållbart byggande
+Göteborg stad har ambitiösa hållbarhetsmål:
+- Göteborg Energi ger rabatter vid certifiering (Miljöbyggnad, BREEAM, LEED)
+- Krav på solceller vid nybyggnation över 1000 kvm (från 2025)
+- Hantering av hållbara material — rapportering kan krävas för kommunala projekt
+- Bullerplanering krävs för projekt i bullerexponerade lägen
+
+### Säkerhet vid installation av förnybar energi
+För projekt med solceller (som PRJ-002 Green Valley):
+- Arbete på tak med solceller — fallrisk och elektrisk risk kombineras
+- Elentreprenören måste ha kompetens för solcellssystem (behörighet)
+- Brandrisker med solcellsinstallation — brandskyddsutredning rekommenderas
+- Skyddsavstånd till takets kanter ska dokumenteras i AMP

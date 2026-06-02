@@ -1,0 +1,136 @@
+# Malmö — Regionspecifika krav och förutsättningar för byggprojekt
+## Arbetsmiljö och säkerhet i Malmös byggmiljö
+
+---
+
+## 1. Stadsplanering och tillstånd
+
+### Byggtillstånd i Malmö
+Stadsbyggnadskontoret i Malmö handlägger bygglov:
+- Handläggningstid: 10 veckor för enkla ärenden, längre för kulturhistoriska områden
+- Malmö prioriterar klimatanpassning och hållbarhet i sin planprocess
+- Öresundsregionen innebär internationella hänsyn — kontrollera dansk påverkan vid projekt nära Öresund
+- Malmös översiktsplan styr tillåten markanvändning och höjder
+
+### Tillstånd för kranar och transporter
+- Ansökan om kranöversvängning och tunga transporter görs till Gatukontoret Malmö
+- E6 och E22 är kritiska trafikleder — undvik störningar under högtrafik
+- Malmö har ett utbyggt cykelnät — hänsyn till cyklister är viktigt vid logistikplanering
+
+---
+
+## 2. Väder och klimat — Malmöspecifika förutsättningar
+
+### Skånsk vind och öppet landskap
+Malmö och Skåne är en av Sveriges mest utsatta regioner för vind:
+- Genomsnittlig vindhastighet: 5,5 m/s — högst i Sverige bland större städer
+- Stormar från sydväst är vanliga oktober–mars, med vindstyrkor >20 m/s förekommer
+- Öppna ytor nära Öresund ger extra vindexponering
+
+**Konsekvenser för byggarbetsplatsen:**
+- Kranarbete stoppas oftare i Malmö än i inlandsregioner — bygg in buffertar i tidplanen
+- Vindnät och väderskydd kring ställningar är extra viktigt
+- Material som ej används dagligen ska förankras eller inhysas
+- Ställningsinspektioner efter varje storm är obligatoriska
+
+### Milt klimat med korta vintrar
+Malmö har Sveriges mildaste klimat:
+- Sällan kalla vintrar — men daggpunkt- och frostproblem förekommer
+- Mer regn än snö — halkrisk är utbredd under höst och vinter
+- Tidiga vårflöden kan påverka grundvattennivåer
+
+---
+
+## 3. Grundförhållanden och geoteknik
+
+### Malmös varierande geologi
+Malmö har komplexa och varierande grundförhållanden:
+
+**Centrala Malmö och Västra Hamnen:**
+- Gammal hamnmark med utfyllnadsmassor — varierande bärförmåga
+- Förorenad mark vanligt förekommande i tidigare industriområden
+- Grundvattennivån är hög och känslig för byggstörningar
+
+**Husie, Fosie och ytterområden:**
+- Sand och grus med bra bärförmåga
+- Lägre risk för sättningar men kontrollera alltid med geotekniker
+
+**Limhamn och Husie:**
+- Kalksten nära ytan på vissa platser — sprängning kan vara nödvändig
+- Historiska kalkstensbrott kan finnas — utredning av underjordiska håligheter
+
+### Geoteknisk utredning
+Geoteknisk utredning är obligatorisk i Malmö för alla projekt med källare eller djup grundläggning:
+- Geotekniker med lokal Malmökännedom rekommenderas starkt
+- SGI:s (Statens Geotekniska Institut) regionkontor kan bidra med underlag
+
+---
+
+## 4. Förorenad mark — Malmös industriarv
+
+### Historisk industrimark i Malmö
+Malmö har ett rikt industriarv med varv, gjuterier och kemisk industri:
+- **Kockums-området (Västra Hamnen):** Tungmetaller, olja, PCB i marken
+- **Limhamns industriområde:** Kalk- och cementindustri — damm och partiklar
+- **Fosie industriområde:** Varierande industri, risk för klorerade lösningsmedel
+
+### Obligatoriska utredningar
+Vid misstanke om förorenad mark:
+1. Historisk inventering (fas 1) — studera historisk markanvändning
+2. Markundersökning (fas 2) — provtagning och analys
+3. Riskbedömning — bedöm risker för människa och miljö
+4. Saneringsplan — vid behov, med tillstånd från Miljöförvaltningen
+
+**Anmälan till Malmö Miljöförvaltning** krävs vid:
+- Schaktning i känd eller misstänkt förorenad mark
+- Transport av förorenade massor
+- Alla saneringsåtgärder
+
+---
+
+## 5. Öresundsregionen — Gränsöverskridande hänsyn
+
+### Internationella aspekter
+Malmö är Sveriges mest internationella stad med direktförbindelser till Danmark:
+- Arbetstagare från Danmark är vanliga på Malmöprojekt — säkerhetsinformation på danska kan behövas
+- Danska arbetstagare lyder under svenska regler när de arbetar i Sverige
+- Introduktionsmaterial bör finnas på svenska, danska och engelska
+
+### Vindexponering från Öresund
+Projekt nära Öresund har extra vindexponering:
+- Kontakta SMHI för vindstatistik för specifik projektsplats
+- Vindlastsberäkningar ska göras av konstruktör
+- Väderskydd och förankring av material är extra viktigt i Öresundsnära lägen
+
+---
+
+## 6. Sjukhus och vårdinrättningar — Malmöspecifika krav
+
+### Skånes Universitetssjukhus (SUS) och Region Skåne
+Projekt i anslutning till SUS eller Region Skånes fastigheter:
+- Samordning med Regionfastigheter Skåne krävs
+- Infektionskontroll är kritisk — arbeten nära vårdavdelningar kräver speciell plan
+- Buller- och vibrationsgränser är striktare nära vård och forskning
+- Tillträde och leveranser koordineras med sjukhusets rutiner
+
+**Säkerhetsklassning:**
+- SUS och vissa Region Skåne-fastigheter har säkerhetsklassning
+- Alla arbetstagare kan behöva registreras och ID-kontrolleras
+- Fotografering kan vara begränsad i känsliga områden
+
+---
+
+## 7. Energi och hållbarhet i Malmö
+
+### Malmö stads hållbarhetsstrategi
+Malmö är en av Sveriges ledande hållbarhetsstäder:
+- Västra Hamnen är ett internationellt föredöme för hållbart byggande
+- Krav på BREEAM Very Good eller motsvarande för kommunalt finansierade projekt
+- Fjärrvärme från Malmö Energi — anslutning kan vara obligatorisk i vissa områden
+- Dagvattenhantering med Malmö stads LOD-krav
+
+### Förnybar energi
+Solceller och vindkraft är vanliga i Malmö:
+- Solcellsinstallation kräver behörig elentreprenör
+- Vindkraft nära kusten — samordning med Länsstyrelsen
+- Energicertifiering — Malmö stad erbjuder stöd via Klimatsmart Malmö-programmet

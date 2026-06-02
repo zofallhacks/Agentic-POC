@@ -1,0 +1,176 @@
+# AFS 2023:3 — Projektering och byggarbetsmiljösamordning
+## Grundläggande skyldigheter (Sammanfattning för RAG-system)
+Källa: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:3), gäller från 1 januari 2025
+
+---
+
+## Kapitel 1 — Allmänna bestämmelser
+
+### Syfte
+Syftet med dessa föreskrifter är att vid planeringen, projekteringen och samordningen av
+byggnads- eller anläggningsarbete förebygga ohälsa och olycksfall som kan uppstå under
+bygg- och bruksskedet, samt ge förutsättningar för en god arbetsmiljö vid utformningen
+av arbetsplatser.
+
+### Tillämpningsområde
+Bestämmelserna reglerar planering, projektering och utförande av byggnads- eller
+anläggningsarbeten. Föreskrifterna gäller när:
+- Byggherren låter utföra ett byggnads- eller anläggningsarbete
+- Mer än en arbetsgivare eller ensamarbetande samtidigt är verksamma på byggarbetsplatsen
+- Byggarbetet är av sådan art att det medför särskilda risker
+
+### Definitioner
+- **Byggherre:** Den som låter utföra byggnads- eller anläggningsarbete (t.ex. Akademiska Hus)
+- **BAS-P:** Byggarbetsmiljösamordnare för planering och projektering
+- **BAS-U:** Byggarbetsmiljösamordnare för utförande
+- **Arbetsmiljöplan (AMP):** Dokument som beskriver de specifika åtgärder för säkerhet och hälsa
+- **Projektering:** Planering, projektering och konstruktion av byggnaden
+
+---
+
+## Kapitel 2 — Byggherrens skyldigheter
+
+### Grundläggande ansvar
+Byggherren har ansvar för att arbetsmiljön beaktas från tidigt skede. Byggherren ska:
+- Utse BAS-P och BAS-U med tillräcklig kompetens för projektets storlek och komplexitet
+- Säkerställa att BAS-P och BAS-U ges tillräckliga befogenheter och resurser
+- Se till att en arbetsmiljöplan (AMP) upprättas innan byggskedet påbörjas
+- Följa upp att BAS-P och BAS-U fullgör sina uppgifter
+- Underrätta Arbetsmiljöverket om byggnads- eller anläggningsarbete av viss storlek
+
+### Förhandsanmälan till Arbetsmiljöverket
+Byggherren ska skicka förhandsanmälan till Arbetsmiljöverket när:
+- Arbetet beräknas pågå längre än 30 arbetsdagar med mer än 20 arbetstagare samtidigt, ELLER
+- Den totala arbetsvolymen överstiger 500 persondagar
+Anmälan ska skickas senast 2 veckor innan arbetet påbörjas.
+
+### Kompetenskrav för BAS-P och BAS-U
+Byggherren ska säkerställa att utsedd BAS-P och BAS-U har:
+- Adekvat utbildning inom arbetsmiljö och byggarbetsmiljösamordning
+- Praktisk erfarenhet av liknande projekt
+- Kunskap om relevanta föreskrifter och standarder
+- Tillräcklig tid avsatt för uppdraget
+
+---
+
+## Kapitel 3 — BAS-P:s skyldigheter (Planerings- och projekteringsskedet)
+
+### Samordning under projektering
+BAS-P ska samordna projektörernas arbete med att:
+- Identifiera och bedöma risker i tidigt skede
+- Se till att risker förebyggs eller reduceras redan i projekteringen
+- Utarbeta dialogplan för kommunikation med alla aktörer
+- Koordinera realistisk tidplanering som tar hänsyn till säkerhet
+
+### Upprättande av Arbetsmiljöplan (AMP)
+BAS-P ska upprätta en AMP som minst innehåller:
+1. Identifierade risker och bedömning av dessa
+2. Åtgärder för att förebygga riskerna
+3. Ordnings- och skyddsregler för byggarbetsplatsen
+4. Krav på personlig skyddsutrustning
+5. Rutiner för tillbud och olyckor
+6. Kontaktuppgifter till ansvariga personer
+7. Tidplan och fasindelning
+
+### Överlämning av AMP till BAS-U
+BAS-P ska överlämna AMP till BAS-U i god tid innan byggskede påbörjas.
+Överlämningen ska dokumenteras och inkludera:
+- Genomgång av identifierade risker
+- Förklaring av planerade skyddsåtgärder
+- Introduktion till de specifika förhållandena på projektet
+
+### Uppföljning av projektörernas arbete
+BAS-P ska följa upp att:
+- Projektörer (arkitekter, konstruktörer, etc.) identifierar och hanterar arbetsmiljörisker
+- Projektörernas lösningar inte skapar nya risker
+- Nödvändig information om risker dokumenteras för framtida underhåll
+
+---
+
+## Kapitel 4 — BAS-U:s skyldigheter (Byggskedet)
+
+### Samordning under byggskedet
+BAS-U ska samordna entreprenadrernas arbete med att:
+- Planera för hur arbeten ska utföras utan att en entreprenör utsätter andra för risker
+- Koordinera ordnings- och skyddsregler på arbetsplatsen
+- Se till att gemensamma skyddsanordningar finns och underhålls
+- Hålla AMP uppdaterad under hela byggskedet
+
+### Uppföljning av entreprenadrernas säkerhetsarbete
+BAS-U ska regelbundet följa upp att:
+- Alla entreprenadrerna följer AMP och ordnings- och skyddsreglerna
+- Nya risker identifieras och hanteras
+- Incidenter och tillbud rapporteras och utreds
+- Säkerhetsintroduktion ges till alla som börjar arbeta på platsen
+
+### Skyddsrond
+BAS-U ska genomföra regelbundna skyddsronder. En skyddsrond ska:
+- Genomföras minst en gång per månad, oftare vid hög riskaktivitet
+- Dokumenteras med datum, deltagare, iakttagelser och åtgärder
+- Följas upp tills identifierade brister är åtgärdade
+- Involvera skyddsombud om sådant finns utsett
+
+### Hantering av allvarliga tillbud och olyckor
+Vid allvarligt tillbud eller olycka ska BAS-U:
+1. Omedelbart säkerställa att skadade får hjälp
+2. Hindra att fler skadas — evakuera vid behov
+3. Bevara platsen om möjligt för utredning
+4. Underrätta Arbetsmiljöverket om allvarlig olycka (inom 24 timmar)
+5. Dokumentera händelsen och genomföra grundorsaksanalys
+
+---
+
+## Kapitel 11 — Arbetsmiljöplan (AMP)
+
+### Obligatoriskt innehåll i AMP
+En AMP ska innehålla:
+- Beskrivning av projektet och dess specifika risker
+- Rutiner för kommunikation och samordning
+- Åtgärder för hantering av särskilda risker (t.ex. asbest, PCB, arbete på höjd)
+- Ordnings- och skyddsregler inklusive krav på personlig skyddsutrustning
+- Rutiner för tillbud, olyckor och nödsituationer
+- Kontaktlista (BAS-P, BAS-U, räddningstjänst, sjukvård)
+- Information om farliga ämnen på arbetsplatsen
+
+### Uppdatering av AMP
+AMP ska uppdateras:
+- När nya risker identifieras
+- Vid förändringar i projektets utförande
+- Vid byte av entreprenadrenter
+- Minst en gång per kvartal för projekt med lång byggtid
+
+### Tillgänglighet
+AMP ska vara tillgänglig för alla som arbetar på byggarbetsplatsen.
+BAS-U ansvarar för att AMP finns tillgänglig på arbetsplatsen.
+
+---
+
+## Kapitel 5 — Förebyggande av risker
+
+### Särskilda risker som kräver specifik hantering
+Följande risker kräver alltid specifika åtgärder dokumenterade i AMP:
+
+**Arbete på höjd (>2 meter)**
+- Skyddsräcken eller skyddsnät krävs
+- Personlig fallskyddsutrustning om kollektiva åtgärder inte är möjliga
+- Säker tillgång och utrymningsväg krävs
+
+**Schaktarbete och grävning**
+- Riskbedömning av markstabilitet innan grävning påbörjas
+- Säkring av schaktkanter (spontning, slänter, etc.)
+- Undersökning av ledningar och kablar i marken
+
+**Arbete med farliga ämnen (asbest, PCB, bly)**
+- Inventering krävs i byggnader uppförda före 1989 (asbest) och 1995 (PCB)
+- Licensierade entreprenörer krävs för sanering
+- Anmälan till Arbetsmiljöverket krävs vid asbestsanering
+
+**Lyftar och kranar**
+- Lyftplan krävs för lyft med risk
+- Lyftanordningar ska inspekteras av godkänt organ
+- Belastning och räckvidd ska beräknas och dokumenteras
+
+**Brandfarliga arbeten (Heta arbeten)**
+- Tillstånd krävs för heta arbeten (svetsning, slipning, etc.)
+- Brandvakt krävs under och efter arbetet
+- Brandsläckare ska finnas tillgänglig
