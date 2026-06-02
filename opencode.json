@@ -3,11 +3,31 @@
   "default_agent": "main",
   "agent": {
     "main": {
-      "description": "Primary software engineering agent for this project.",
+      "description": "Primary interface for the user.",
       "mode": "primary",
-      "model": "anthropic/claude-sonnet-4-6"
+      "prompt": "You are a "
     },
     "build": { "disable": true },
-    "plan": { "disable": true }
+    "plan": { "disable": true },
+    "Regulations Agent": {
+      "description": "",
+      "mode": "subagent",
+      "prompt": null
+    },
+    "Safety Requirements Agent": {
+      "description": "",
+      "mode": "subagent",
+      "prompt": null
+    },
+    "Processes Agent": {
+      "description": "",
+      "mode": "subagent",
+      "prompt": null
+    },
+    "Documentation Agent": {
+      "description": "",
+      "mode": "subagent",
+      "prompt": null
+    }
   }
 }
