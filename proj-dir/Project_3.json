@@ -1,0 +1,126 @@
+{
+  "ProjectFacts": {
+    "ProjectName": "Central Hospital Expansion",
+    "ProjectStatus": "Completed",
+    "ProjectId": "PRJ-003",
+    "ProjectType": "Building",
+    "StartDate": "2022-05-10",
+    "EndDate": "2025-11-20",
+    "ProjectLeader": "Maria Lindberg",
+    "ProjectSponsor": "City Health Authority",
+    "Location": "Malmö, Sweden"
+  },
+  "ProjectTechnicalDetails": {
+    "SquareMeters": 25000,
+    "TechnicalDescription": "Expansion of existing hospital including new surgical units, ICU facilities, and advanced medical infrastructure.",
+    "BuildingNumber": "BLD-CH-EXT",
+    "KindOfCampus": "Healthcare Campus",
+    "Customer": "City Hospital Board",
+    "KindOfProjectDepartment": "Healthcare Infrastructure",
+    "FinancialCategory": "Building",
+    "ProjectType": "Hospital Facility",
+    "ProjectSize": {
+      "Category": "Extra Large",
+      "FinancialRangeSEK": "1B - 3B"
+    }
+  },
+  "WorkEnvironment": {
+    "Classification": "Red",
+    "ProcessTrack": "Byggprocess",
+    "CurrentPhase": "Avslutat",
+    "CompletedPhases": ["Tidigt skede", "Projektering", "Byggskede", "Slutskede"],
+    "RemainingPhases": [],
+    "BAS_P": {
+      "Name": "Anders Holm",
+      "Company": "Medibygg Konsult AB",
+      "AppointedDate": "2022-03-01",
+      "Status": "Completed",
+      "DischargeDate": "2023-08-01"
+    },
+    "BAS_U": {
+      "Name": "Eva Karlsson",
+      "Company": "Hälsobygg Säkerhet AB",
+      "AppointedDate": "2023-07-15",
+      "Status": "Completed",
+      "DischargeDate": "2025-11-20"
+    },
+    "AMP": {
+      "Status": "Archived",
+      "Version": "7.4 — Final",
+      "Template": "Arbetsmiljo_plan_mall_Akademiska_Hus",
+      "CreatedDate": "2022-04-01",
+      "LastUpdated": "2025-11-01",
+      "ArchivedDate": "2025-11-20"
+    },
+    "IdentifiedRisks": [
+      {
+        "RiskId": "R-001",
+        "Description": "Ongoing hospital operations during entire construction period — infection control critical",
+        "Severity": "High",
+        "Mitigation": "Full zone separation, HEPA filtration, dedicated contractor access routes",
+        "Status": "Resolved"
+      },
+      {
+        "RiskId": "R-002",
+        "Description": "Demolition of existing structures containing asbestos (pre-1975 construction)",
+        "Severity": "High",
+        "Mitigation": "Licensed asbestos removal contractor, Arbetsmiljöverket notified, air monitoring throughout",
+        "Status": "Resolved"
+      },
+      {
+        "RiskId": "R-003",
+        "Description": "Medical gas system installation — oxygen-enriched environment fire risk",
+        "Severity": "High",
+        "Mitigation": "Specialist contractor, hot work prohibition zones, gas detection installed",
+        "Status": "Resolved"
+      },
+      {
+        "RiskId": "R-004",
+        "Description": "Heavy equipment access through active hospital — patient and staff safety",
+        "Severity": "High",
+        "Mitigation": "Dedicated delivery windows 06:00–07:30, escort procedure for large loads",
+        "Status": "Resolved"
+      },
+      {
+        "RiskId": "R-005",
+        "Description": "Night work required for ICU connection — noise and disturbance to patients",
+        "Severity": "Medium",
+        "Mitigation": "Acoustic barriers, limited night work schedule agreed with hospital management",
+        "Status": "Resolved"
+      }
+    ],
+    "SpecialConditions": [
+      "Project completed — all documentation archived",
+      "Asbestos removal completed and certified — certificates on file",
+      "Slutbesiktning passed: 2025-11-15",
+      "Arbetsmiljödokumentation handed over to facility management: 2025-11-20"
+    ],
+    "PendingActions": [],
+    "RecentIncidents": [
+      {
+        "IncidentId": "INC-003",
+        "Date": "2023-09-14",
+        "Description": "Worker injured — sprained ankle on uneven temporary flooring in transition zone",
+        "Severity": "Low",
+        "ActionTaken": "First aid administered, flooring replaced, skyddsrond triggered",
+        "WorktsmiljoVerketNotified": false,
+        "Status": "Closed"
+      },
+      {
+        "IncidentId": "INC-004",
+        "Date": "2024-03-02",
+        "Description": "Asbestos containment breach during ceiling demolition — area evacuated, air testing conducted",
+        "Severity": "High",
+        "ActionTaken": "Full evacuation, re-containment by licensed contractor, Arbetsmiljöverket notified, clearance testing passed",
+        "WorktsmiljoVerketNotified": true,
+        "Status": "Closed"
+      }
+    ],
+    "LessonsLearned": [
+      "Infection control zones must be defined before any contractor begins work — not during",
+      "Asbestos survey scope should cover all pre-1975 materials, not just structural elements",
+      "Hospital facility management must be included in weekly BAS-U coordination meetings from day one",
+      "Medical gas specialist contractor lead time is 6+ months — procure early"
+    ]
+  }
+}

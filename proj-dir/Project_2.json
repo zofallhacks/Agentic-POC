@@ -1,0 +1,144 @@
+{
+  "ProjectFacts": {
+    "ProjectName": "Green Valley Residential Complex",
+    "ProjectStatus": "Planning",
+    "ProjectId": "PRJ-002",
+    "ProjectType": "Building",
+    "StartDate": "2026-01-15",
+    "EndDate": "2028-09-30",
+    "ProjectLeader": "Erik Johansson",
+    "ProjectSponsor": "Green Living Developments",
+    "Location": "Gothenburg, Sweden"
+  },
+  "ProjectTechnicalDetails": {
+    "SquareMeters": 9500,
+    "TechnicalDescription": "Multi-building residential complex featuring sustainable materials, solar panels, and shared community spaces.",
+    "BuildingNumber": "BLD-GV-07",
+    "KindOfCampus": "Suburban Residential",
+    "Customer": "Green Homes Cooperative",
+    "KindOfProjectDepartment": "Residential Development",
+    "FinancialCategory": "Planning",
+    "ProjectType": "Apartment Complex",
+    "ProjectSize": {
+      "Category": "Medium",
+      "FinancialRangeSEK": "100M - 500M"
+    }
+  },
+  "WorkEnvironment": {
+    "Classification": "Yellow",
+    "ProcessTrack": "Förenklad byggprocess",
+    "CurrentPhase": "Tidigt skede",
+    "CompletedPhases": [],
+    "RemainingPhases": ["Projektering", "Byggskede", "Slutskede"],
+    "BAS_P": {
+      "Name": "Sofia Bergström",
+      "Company": "Projektsäker Konsult AB",
+      "AppointedDate": "2025-05-01",
+      "Status": "Active",
+      "LastFollowUp": null,
+      "NextFollowUp": "2025-06-20"
+    },
+    "BAS_U": {
+      "Name": null,
+      "Company": null,
+      "AppointedDate": null,
+      "Status": "Not yet appointed",
+      "Note": "BAS-U must be appointed before construction start — latest by 2025-11-01"
+    },
+    "AMP": {
+      "Status": "In preparation",
+      "Version": "0.1 — Draft",
+      "Template": "Arbetsmiljo_plan_mall_forenklad_byggprocess",
+      "CreatedDate": null,
+      "LastUpdated": "2025-05-28",
+      "NextReview": "2025-06-20",
+      "Note": "BAS-P has started draft — first review due at startmöte on 2025-06-20"
+    },
+    "IdentifiedRisks": [
+      {
+        "RiskId": "R-001",
+        "Description": "Roof-mounted solar panel installation — working at height",
+        "Severity": "Medium",
+        "Mitigation": "To be defined in AMP during projektering phase",
+        "Status": "Identified"
+      },
+      {
+        "RiskId": "R-002",
+        "Description": "Multi-building site — risk of contractor overlap and coordination failures",
+        "Severity": "Medium",
+        "Mitigation": "Coordination plan to be developed with BAS-U before byggskede",
+        "Status": "Identified"
+      },
+      {
+        "RiskId": "R-003",
+        "Description": "Sustainable/novel materials — unknown handling and installation hazards",
+        "Severity": "Low",
+        "Mitigation": "Material safety data sheets to be reviewed by BAS-P during projektering",
+        "Status": "Identified"
+      },
+      {
+        "RiskId": "R-004",
+        "Description": "Suburban location — ground conditions unknown, potential groundwater risk",
+        "Severity": "Medium",
+        "Mitigation": "Geotechnical survey scheduled for 2025-07-01",
+        "Status": "Pending investigation"
+      }
+    ],
+    "SpecialConditions": [
+      "Ongoing residential area nearby — noise and dust restrictions apply",
+      "Geotechnical survey not yet completed — ground risk classification provisional",
+      "Solar panel installation requires specialist contractor — procurement not started"
+    ],
+    "PendingActions": [
+      {
+        "ActionId": "A-001",
+        "Description": "Hold startmöte with BAS-P — review AMP draft and project risk assessment",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-06-20",
+        "Priority": "High",
+        "Status": "Scheduled"
+      },
+      {
+        "ActionId": "A-002",
+        "Description": "Commission geotechnical survey — confirm ground conditions before projektering",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-07-01",
+        "Priority": "High",
+        "Status": "Pending"
+      },
+      {
+        "ActionId": "A-003",
+        "Description": "Complete project size/risk classification (Identifiering storlek, kompetens, risknivå)",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-06-15",
+        "Priority": "High",
+        "Status": "In Progress"
+      },
+      {
+        "ActionId": "A-004",
+        "Description": "Define dialogue plan with BAS-P for projektering phase",
+        "ResponsibleRole": "BAS-P",
+        "DueDate": "2025-06-20",
+        "Priority": "Medium",
+        "Status": "Pending"
+      },
+      {
+        "ActionId": "A-005",
+        "Description": "Begin BAS-U procurement — advertise and evaluate candidates",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-09-01",
+        "Priority": "Medium",
+        "Status": "Not started"
+      },
+      {
+        "ActionId": "A-006",
+        "Description": "Review material safety data sheets for sustainable building materials with BAS-P",
+        "ResponsibleRole": "BAS-P",
+        "DueDate": "2025-08-01",
+        "Priority": "Low",
+        "Status": "Not started"
+      }
+    ],
+    "RecentIncidents": []
+  }
+}

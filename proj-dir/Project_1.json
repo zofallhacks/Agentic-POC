@@ -1,0 +1,154 @@
+{
+  "ProjectFacts": {
+    "ProjectName": "Nordic Innovation Tower",
+    "ProjectStatus": "In Progress",
+    "ProjectId": "PRJ-001",
+    "ProjectType": "Building",
+    "StartDate": "2025-03-01",
+    "EndDate": "2027-06-30",
+    "ProjectLeader": "Anna Svensson",
+    "ProjectSponsor": "Nordic Development Group",
+    "Location": "Stockholm, Sweden"
+  },
+  "ProjectTechnicalDetails": {
+    "SquareMeters": 18000,
+    "TechnicalDescription": "High-rise office building with energy-efficient façade, smart building systems, and underground parking.",
+    "BuildingNumber": "BLD-NT-01",
+    "KindOfCampus": "Urban Business District",
+    "Customer": "Nordic Enterprises AB",
+    "KindOfProjectDepartment": "Commercial Construction",
+    "FinancialCategory": "Building",
+    "ProjectType": "Office Building",
+    "ProjectSize": {
+      "Category": "Large",
+      "FinancialRangeSEK": "500M - 1B"
+    }
+  },
+  "WorkEnvironment": {
+    "Classification": "Red",
+    "ProcessTrack": "Byggprocess",
+    "CurrentPhase": "Byggskede",
+    "CompletedPhases": ["Tidigt skede", "Projektering"],
+    "RemainingPhases": ["Slutskede"],
+    "BAS_P": {
+      "Name": "Lars Eriksson",
+      "Company": "Säkra Byggkonsult AB",
+      "AppointedDate": "2024-11-15",
+      "Status": "Active",
+      "LastFollowUp": "2025-05-10",
+      "NextFollowUp": "2025-06-15"
+    },
+    "BAS_U": {
+      "Name": "Karin Nilsson",
+      "Company": "Bygg & Säkerhet Stockholm AB",
+      "AppointedDate": "2025-02-20",
+      "Status": "Active",
+      "LastFollowUp": "2025-05-20",
+      "NextFollowUp": "2025-06-10"
+    },
+    "AMP": {
+      "Status": "Active",
+      "Version": "3.1",
+      "Template": "Arbetsmiljo_plan_mall_Akademiska_Hus",
+      "CreatedDate": "2024-12-01",
+      "LastUpdated": "2025-05-15",
+      "NextReview": "2025-07-01"
+    },
+    "IdentifiedRisks": [
+      {
+        "RiskId": "R-001",
+        "Description": "Working at height — façade installation above 15m",
+        "Severity": "High",
+        "Mitigation": "Scaffolding plan approved, fall protection in place",
+        "Status": "Ongoing"
+      },
+      {
+        "RiskId": "R-002",
+        "Description": "Underground parking excavation — risk of ground collapse and utility conflicts",
+        "Severity": "High",
+        "Mitigation": "Utility survey completed, shoring plan in place",
+        "Status": "Resolved"
+      },
+      {
+        "RiskId": "R-003",
+        "Description": "Dense urban site — risk of falling objects affecting public",
+        "Severity": "High",
+        "Mitigation": "Safety netting and hoarding installed",
+        "Status": "Ongoing"
+      },
+      {
+        "RiskId": "R-004",
+        "Description": "Installation of smart building systems — electrical hazards in occupied areas",
+        "Severity": "Medium",
+        "Mitigation": "Hot work permits required, zones defined",
+        "Status": "Pending"
+      },
+      {
+        "RiskId": "R-005",
+        "Description": "Crane operations adjacent to public road",
+        "Severity": "High",
+        "Mitigation": "Traffic management plan approved by Stockholm municipality",
+        "Status": "Ongoing"
+      }
+    ],
+    "SpecialConditions": [
+      "Dense urban location with active public pedestrian zone adjacent to site",
+      "Crane operations require municipality permit — renewed monthly",
+      "Night work restrictions apply (22:00–07:00) per local noise ordinance",
+      "Concurrent contractors on site — coordination meeting every Monday 08:00"
+    ],
+    "PendingActions": [
+      {
+        "ActionId": "A-001",
+        "Description": "Conduct skyddsrond — scaffolding at floors 12–16",
+        "ResponsibleRole": "BAS-U",
+        "DueDate": "2025-06-07",
+        "Priority": "High",
+        "Status": "Overdue"
+      },
+      {
+        "ActionId": "A-002",
+        "Description": "Renew crane operation permit with Stockholm municipality",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-06-15",
+        "Priority": "High",
+        "Status": "Pending"
+      },
+      {
+        "ActionId": "A-003",
+        "Description": "Follow-up meeting with BAS-U — review hot work permit process for smart systems installation",
+        "ResponsibleRole": "Project Leader",
+        "DueDate": "2025-06-10",
+        "Priority": "Medium",
+        "Status": "Pending"
+      },
+      {
+        "ActionId": "A-004",
+        "Description": "Update AMP to include new electrical subcontractor (Elbygg Stockholm AB)",
+        "ResponsibleRole": "BAS-U",
+        "DueDate": "2025-06-08",
+        "Priority": "High",
+        "Status": "Pending"
+      },
+      {
+        "ActionId": "A-005",
+        "Description": "Safety introduction for 3 new workers arriving next week",
+        "ResponsibleRole": "BAS-U",
+        "DueDate": "2025-06-09",
+        "Priority": "Medium",
+        "Status": "Pending"
+      }
+    ],
+    "RecentIncidents": [
+      {
+        "IncidentId": "INC-001",
+        "Date": "2025-05-28",
+        "Description": "Near-miss — unsecured material fell from floor 8 scaffolding, no injuries",
+        "Severity": "Medium",
+        "ActionTaken": "Immediate site stop, scaffolding inspection, toolbox talk conducted",
+        "WorktsmiljoVerketNotified": false,
+        "Status": "Closed"
+      }
+    ]
+  }
+}
